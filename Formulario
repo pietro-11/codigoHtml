@@ -1,0 +1,68 @@
+<html>
+<style type="text/css">
+	body{
+		background-color: paleturquoise;
+	}
+</style>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>FormularioPokemon</title>
+</head>
+<body>
+	<fieldset>
+		<center><h1>FORMULÁRIO POKEMON</h1></center>
+		<br>
+	</fieldset>
+	<br>
+	<label for="name">Nome do Pokemon:</label> <input type="text" id="name" name="user_name">
+	<br><br>
+	<label for="name">Tipagem:</label> <input type="text">
+	<br><br>
+	<label for="name">Ele tem tipagem dupla ?</label>
+	<br>
+	<p>Sim <input type="radio"></p>
+	<p>Não <input type="radio"></p>
+	<br>
+	<label for="name">Qual ?</label> <input type="text">
+	<br><br>
+	<label for="name">Treinador: </label> <input type="text">
+	<br><br>
+	<p>Região originária:</p>
+	<select Região = numero>
+		<option value="Kanto">Kanto</option>
+		<option value="Jotho">Jotho</option>
+		<option value="Hoen">Hoen</option>
+		<option value="Unova">Unova</option>
+	</select>
+	<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+	<a href="file:///C:/Users/aluno.sesi.SISTEMAFIEPE/Desktop/formEnviadoo.html"><button type="button">Enviar formulário</button></a> 
+
+</body>
+</html>
+
+
+
+
+<html>
+<style type="text/css">
+	body{
+		background-color: paleturquoise;
+	}
+</style>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Enviado</title>
+</head>
+<body>
+	<fieldset>
+		<center>
+			<h1>FORMULÁRIO ENVIADO</h1>
+		</center>
+	</fieldset>
+
+	<br><br><br>
+	<h1>Sua resposta foi enviada !</h1>
+</body>
+</html>
